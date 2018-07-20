@@ -67,8 +67,8 @@ More Details：[Setting up your GitHub Pages site locally with Jekyll](https://h
 Default language is English.
 
 ```yml
-language: en
-# language: zh-Hans
+# language: en
+language: zh-Hans
 # language: fr-FR
 # language: zh-hk
 # language: zh-tw
